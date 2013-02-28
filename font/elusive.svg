@@ -2,7 +2,7 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <svg xmlns="http://www.w3.org/2000/svg">
 <metadata>
-Created by FontForge 20110222 at Thu Feb 28 16:12:31 2013
+Created by FontForge 20110222 at Thu Feb 28 17:04:51 2013
  By Vitaly Puzrin,,,
 Copyright (C) 2012 by Daniel Bruce
 </metadata>
@@ -184,8 +184,8 @@ d="M146 704q146 146 354 146t354 -146t146 -354t-146 -354t-354 -146t-354 146t-146 
 d="M0 -15h1000v-135h-1000v135zM88 436h228v414h370v-414h228l-414 -385l-412 385v0z" />
     <glyph glyph-name="glyph64" unicode="&#xe014;" 
 d="M146 704q146 146 354 146t354 -146t146 -354t-146 -354t-354 -146t-354 146t-146 354t146 354zM224 74q115 -115 276 -115t276 115t115 276t-115 276t-276 115t-276 -115t-115 -276t115 -276zM279 364l221 207l221 -207h-123v-223h-196v223h-123v0z" />
-    <glyph glyph-name="glyph65" unicode="&#xe03b;" horiz-adv-x="656" 
-d="M0 6v688l312 -313v313l344 -344l-344 -344v313l-312 -313v0z" />
+    <glyph glyph-name="glyph65" unicode="&#xe03b;" 
+d="M0 -121q0 269 84 442q34 70 95 124q60 53 107 76q49 25 122 38q70 13 104 15.5t117 2.5v244l371 -371l-371 -371v267h-51h-44t-33.5 -0.5t-34.5 -1t-31.5 -1.5t-39 -3t-43.5 -5q-79 -9 -114 -26q-34 -16 -86 -51q-48 -32 -74 -83q-59 -115 -78 -296v0z" />
     <glyph glyph-name="glyph66" unicode="&#xe054;" 
 d="M0 375q0 206 114 293q39 30 71 45.5t84 27.5q49 12 163 21l37 -176q-95 -19 -147 -51q-66 -40 -58 -130h131v-467h-395v437zM529 -62v437q0 135 54 226q19 33 56.5 64t76.5 48q28 13 78.5 26t85.5 16q10 1 37.5 3t43.5 4l39 -176q-55 -11 -84.5 -20.5t-63.5 -30.5
 q-63 -39 -59 -130h131v-467h-395v0z" />

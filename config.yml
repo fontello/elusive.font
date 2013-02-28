@@ -455,7 +455,7 @@ glyphs:
     search: [upload]
 
   -
-    css: forward
+    css: share
     code: 0xe03b
     uid: d5937c5767642d0336ad599af0e9c992
     search: [forward, share]
