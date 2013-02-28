@@ -607,7 +607,7 @@ glyphs:
     css: doc-new-circled
     code: 0xe0bc
     uid: 3a3b9605e79d81475ebe85e9f68086cd
-    search: doc, article[]
+    search: [doc, article]
 
   -
     css: folder
